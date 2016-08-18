@@ -22,10 +22,10 @@ module.exports = function(environment) {
     },
 
     firebase: {
-      apiKey: "AIzaSyDD5rj1YRLxyIcxnAp1QsxclK0DCk4pods",
-      authDomain: "super-rentals-ember-254c7.firebaseapp.com",
-      databaseURL: "https://super-rentals-ember-254c7.firebaseio.com",
-      storageBucket: "super-rentals-ember-254c7.appspot.com",
+      apiKey: "AIzaSyAFMnjdEb23nBBd7Ago3kyX0uhcJToIo_A",
+      authDomain: "super-rentals-339b4.firebaseapp.com",
+      databaseURL: "https://super-rentals-339b4.firebaseio.com",
+      storageBucket: "super-rentals-339b4.appspot.com",
     }
   };
 
